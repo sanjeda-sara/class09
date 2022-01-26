@@ -1,0 +1,30 @@
+ml auto to get everything to left side of the page inside navbar-nav
+
+-USING OL FOR INDICATOR IS NOT A GOOD PRACTICE!!!
+use <ol>, ordered list! <ol> for indicators!
+
+carousel control outside of carousel inner!
+
+
+#grid system
+for tab (sm), laptop (md), small desktop (lg), big desktop (xl)
+
+
+
+***py-5***** padding top and bottom on y axis
+***my-5***** margin top margin bottom
+====ctrl+cursor to open specific part of the css code
+
+
+
+
+--->bootstrap
+-menu
+-slider
+-grid
+-card
+-modal
+-form
+-table
+-nav/pills
+-accordion
